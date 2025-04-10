@@ -4,3 +4,9 @@ body {
     height: 100%;
     background-color:rgb(181, 251, 251);
 }
+header {
+    position: relative;
+    width: 100px;
+    height: 60px;
+    background-color: blue;
+}
